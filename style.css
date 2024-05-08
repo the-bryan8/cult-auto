@@ -1,0 +1,36 @@
+/* Styles de la page de drift */
+body {
+    background-color: #caa4ca;
+    font-family: Verdana, sans-serif;
+    /* Police Verdana par défaut */
+    color: #000000;
+    /* Texte noir par défaut */
+}
+
+/* Reset des styles de liste pour les paragraphes */
+p {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+h1 {
+    color: #000080;
+    text-align: center;
+}
+
+h2 {
+    color: #3c6bc9;
+    margin-left: 15px;
+}
+
+a {
+    color: #130080;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
